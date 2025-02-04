@@ -1,2 +1,4 @@
 # Laboratorio-1
-Actividad en clase de laboratorio en github bien
+Perfil de Aylin Salazar Delgado
+
+Estudiante del Colegio Científico Costarricense Sede San Pedro
